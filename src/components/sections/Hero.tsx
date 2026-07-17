@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="flex max-w-xl flex-col items-start gap-6">
           <Badge>Business Automation for Plumbing, HVAC & Roofing Businesses</Badge>
           <h1 className="text-4xl font-bold leading-[1.1] text-charcoal sm:text-5xl">
-            Less admin. More customers. Better operations.
+            Stop Losing Local Jobs to Slow Office Work.
           </h1>
           <p className="text-lg leading-relaxed text-slate">
             Sterling Local builds AI-powered systems that eliminate repetitive work,
