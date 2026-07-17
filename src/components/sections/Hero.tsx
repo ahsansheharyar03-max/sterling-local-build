@@ -12,10 +12,7 @@ export default function Hero() {
           <h1 className="text-4xl font-bold leading-[1.1] text-charcoal sm:text-5xl">
             Stop Losing Local Jobs to Slow Office Work.
           </h1>
-          <p className="text-lg leading-relaxed text-slate">
-            We automate the repetitive office work behind your business
-            so your team can respond faster
-            Serve more customers, and spend less time on admin.
+          <p className="text-lg leading-relaxed text-slate">We automate the repetitive office work that slows your business down—so your team can respond faster, book more jobs, and spend less time on admin.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <Button href="/contact">Book a Free Automation Audit</Button>
