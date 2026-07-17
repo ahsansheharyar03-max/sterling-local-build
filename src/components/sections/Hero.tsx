@@ -8,7 +8,7 @@ export default function Hero() {
     <section className="border-b border-line bg-white pb-20 pt-16 sm:pt-24">
       <Container className="flex flex-col items-center gap-12 lg:flex-row lg:items-center lg:gap-16">
         <div className="flex max-w-xl flex-col items-start gap-6">
-          <Badge>Automation systems for service businesses</Badge>
+          <Badge>Automation systems for service business</Badge>
           <h1 className="text-4xl font-bold leading-[1.1] text-charcoal sm:text-5xl">
             Less admin. More customers. Better operations.
           </h1>
