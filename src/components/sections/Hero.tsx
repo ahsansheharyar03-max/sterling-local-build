@@ -13,9 +13,9 @@ export default function Hero() {
             Stop Losing Local Jobs to Slow Office Work.
           </h1>
           <p className="text-lg leading-relaxed text-slate">
-            Sterling Local builds AI-powered systems that eliminate repetitive work,
-            keep every customer message answered, and give your team hours back
-            every week.
+            We automate the repetitive office work behind your business
+            so your team can respond faster
+            Serve more customers, and spend less time on admin.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <Button href="/contact">Book a Free Automation Audit</Button>
